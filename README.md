@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Filip – Aspiring Full-Stack Web Developer<br>I am a passionate full-stack web developer with experience in designing and building efficient, scalable web applications. My expertise spans both front-end and back-end technologies, allowing me to create dynamic, user-friendly interfaces as well as robust server-side architectures.<br><br>
+Hi, I'm Filip – An upcoming Full-Stack Web Developer<br>I am a passionate full-stack web developer with experience in designing and building efficient, scalable web applications. My expertise spans both in front-end and back-end technologies, allowing me to create dynamic, user-friendly interfaces as well as robust server-side architectures.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zlatanovski__) 
