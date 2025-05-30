@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, <br>I'm Filip Zlatanovski, and upcoming junior full-stack web developer, passionate about building dynamic and responsive websites. With a growing expertise in both front-end and back-end technologies, I'm driven to master the art of crafting seamless user experiences and efficient code.<br><br>My journey is marked by curiosity, dedication, and a desire to continually improve my skills in modern web development tools and frameworks.<br><br>
+Hello, <br>I'm Filip Zlatanovski, an upcoming junior full-stack web developer, passionate about building dynamic and responsive websites. With a growing expertise in both front-end and back-end technologies, I'm driven to master the art of crafting seamless user experiences and efficient code.<br><br>My journey is marked by curiosity, dedication, and a desire to continually improve my skills in modern web development tools and frameworks.<br><br>
 # My Current Skill Set:
 Front-End: HTML5, CSS3, Javascript, Typescript, React.js, Angular.js, Next.js, Bootstrap, Angular Material, ShadCn UI, Framer Motion<br><br>Back-End: NestJS, TypeORM, DrizzleORM, Node.js, Express.js, DrizzleORM<br><br>Databases: PostgreSQL, MongoDB<br><br>General: Postman, GitHub, Git, Swagger, Slack, Visual Studio Code, Vercel.<br>
 
